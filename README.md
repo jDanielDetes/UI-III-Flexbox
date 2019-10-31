@@ -8,7 +8,7 @@ Once you have finished the home page using flex box module, go build the service
 
 ## To Get Started
 
-* Fork the project to your GitHub account
+* Fork the project to your GitHub account.
 * Clone this project into a directory on your machine.
 * Open the code with your preferred integrated development environment (IDE).
 * Start on the objectives
